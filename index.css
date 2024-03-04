@@ -38,3 +38,17 @@
 .filter-btn{
     margin:10px;
 }
+
+.shimmer-card{
+    height: 300px;
+    width:200px;
+    margin:10px;
+    background-color: silver;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
